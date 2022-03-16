@@ -35,4 +35,4 @@ ReactDOM.render(<App />, root);
 //   }
 // }
 
-ReactDOM.render(<Hello name="Gary" flag="🏁" />, root);
+// ReactDOM.render(<Hello name="Gary" flag="🏁" />, root);
